@@ -1,0 +1,1 @@
+This is a project I am completing to reinforce recent tutorials I completed in Meteor and React. This is a button which orders an item through postmates in just one click, perfect for impulse buys. Functional, but I am waiting for Postmates to get back to me with a live API key (right now it only simulates deliveries) and it still needs a TON of styling work.
